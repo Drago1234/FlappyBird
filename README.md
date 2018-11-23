@@ -5,7 +5,7 @@
 ## Usage
 
 ```
-git clone https://github.com/stronglink/FlappyBird.git
+git clone https://github.com/Drago1234/FlappyBird.git
 cd FlappyBird
 ./run
 ```
